@@ -76,13 +76,13 @@ Both datasets contain approximately 50,000 records. Employee ID was used as the 
 
 ```text
 HR-Analytics-Project/
+├── images/
+│   ├── Excel Dashboard.png
+│   ├── PowerBI Darkmode.png
+│   ├── PowerBI Light mode.png
+│   └── Tableau Dashboard.png
 ├── sql/
 │   └── HR_Analytics_Queries.sql
-├── images/
-│   ├── excel-dashboard.png
-│   ├── tableau-dashboard.png
-│   ├── powerbi-light.png
-│   └── powerbi-dark.png
 └── README.md
 ```
 
