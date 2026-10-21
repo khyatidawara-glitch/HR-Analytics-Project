@@ -40,25 +40,21 @@ Both datasets contain approximately 50,000 records. Employee ID was used as the 
 
 ## Dashboard Gallery
 
-## Dashboard Gallery
-
-## Dashboard Gallery
-
 ### Excel Dashboard
 
-![Excel Dashboard](sql/Excel%20Dashboard.png)
+![Excel Dashboard](images/Excel%20Dashboard.png)
 
 ### Tableau Dashboard
 
-![Tableau Dashboard](sql/Tableau%20Dashboard.png)
+![Tableau Dashboard](images/Tableau%20Dashboard.png)
 
 ### Power BI Dashboard — Dark Mode
 
-![PowerBI Darkmode](sql/PowerBI%20Darkmode.png)
+![PowerBI Darkmode](images/PowerBI%20Darkmode.png)
 
 ### Power BI Dashboard — Light Mode
 
-![PowerBI Lightmode](sql/PowerBI%20Light%20mode.png)
+![PowerBI Lightmode](images/PowerBI%20Light%20mode.png)
 
 ## Initial Findings
 
