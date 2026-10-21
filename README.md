@@ -56,14 +56,34 @@ Both datasets contain approximately 50,000 records. Employee ID was used as the 
 
 ![PowerBI Lightmode](images/PowerBI%20Light%20mode.png)
 
-## Initial Findings
+## Key Analysis and Findings
 
-- The analyzed dataset contains approximately 50,000 employee records.
-- The overall attrition rate calculated in SQL was **50.21%**.
-- Department-level attrition and income-band attrition were explored.
-- Additional analysis covered overtime, gender, promotion history, working years, and work-life balance.
+This project explores employee attrition using two related HR datasets containing approximately 50,000 records each.
 
-*These findings describe the dataset analyzed in this project and should not be generalized to other organizations without further validation.*
+The analysis covers:
+
+- **Departmental attrition:** Compares employee attrition rates across departments.
+- **Income and attrition:** Examines attrition across monthly income bands.
+- **Employee demographics:** Analyzes gender-wise attrition within departments.
+- **Career progression:** Explores attrition in relation to years since the last promotion.
+- **Work experience:** Compares average total working years across departments.
+- **Job roles and work-life balance:** Examines the distribution of work-life balance ratings across job roles.
+- **Hourly rates:** Calculates the average hourly rate for male Research Scientists.
+
+The overall attrition rate calculated during SQL validation was **50.21%** (25,105 employees classified as having left out of 50,000 records). This figure describes the dataset analyzed and should be interpreted in the context of its source and definitions.
+
+## Business Recommendations
+
+Based on the results of the analysis, HR teams could:
+
+1. Investigate departments with comparatively high attrition rates.
+2. Review compensation patterns alongside attrition and other workforce indicators.
+3. Examine promotion opportunities and career progression for potential retention concerns.
+4. Compare work-life balance ratings across job roles to identify areas for further investigation.
+5. Monitor gender-wise attrition patterns within departments while protecting employee privacy.
+6. Use recurring dashboards and KPI reporting to track changes over time.
+
+These recommendations are intended to guide further investigation. The analysis identifies patterns and associations and does not establish that any particular factor causes attrition.
 
 ## Recommendations
 
